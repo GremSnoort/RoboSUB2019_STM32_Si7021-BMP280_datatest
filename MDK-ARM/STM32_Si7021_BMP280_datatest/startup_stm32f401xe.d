@@ -1,0 +1,1 @@
+stm32_si7021_bmp280_datatest\startup_stm32f401xe.o: startup_stm32f401xe.s
